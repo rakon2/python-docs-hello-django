@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'axiswebapp1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B1F73761B93A45FB8A119898A459AD55 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4DADECD318C84EDA83CD2876643B468E }}
